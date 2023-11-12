@@ -12,3 +12,7 @@
 const twin = 'test';
 console.log(`${twin}`);
 console.log(5 + + '2');
+console.log(7+2);
+console.log(7+2);
+console.log(7+2);
+console.log(7+2);
